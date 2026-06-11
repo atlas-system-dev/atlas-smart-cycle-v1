@@ -1,0 +1,14 @@
+# Foundry
+/out/
+/cache/
+/broadcast/
+
+# Dependencies are pinned as git submodules (see .gitmodules) — clone with --recurse-submodules
+
+# Env / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
