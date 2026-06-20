@@ -110,6 +110,11 @@ forge build
 
 `solc 0.8.20`, optimizer enabled (200 runs) — see `foundry.toml`.
 
+## Documentation
+
+- [White paper](./docs/atlas-system-white-paper.pdf)
+- [Manifesto](./docs/atlas_manifesto.pdf)
+
 ## License
 
 MIT — see [`LICENSE`](./LICENSE).
