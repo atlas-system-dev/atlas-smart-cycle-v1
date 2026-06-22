@@ -117,4 +117,7 @@ forge build
 
 ## License
 
-MIT — see [`LICENSE`](./LICENSE).
+Proprietary — All Rights Reserved. See [`LICENSE`](./LICENSE).
+
+This source is published for transparency and review only. Copying, reuse,
+modification, or distribution without prior written permission is prohibited.
